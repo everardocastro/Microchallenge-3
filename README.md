@@ -76,6 +76,7 @@ We had to conduct many trials with combinations of arm movements/arm positions a
 ## Output (Max8)
 
 1- Phone 1: triggers shape's polyfaces, color, and noise.
+
 2- Phone 2: modifies values of each command.
 **Interactive wireframe shape that reacts to body movements, changing its color, number of faces, and noise value.**
 
