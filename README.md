@@ -68,7 +68,9 @@ We had to conduct many trials with combinations of arm movements/arm positions a
 
 ## Inputs
 1- Body movements to Wekinator detected through Gravitational sensor 
+
 2- Phone 1: Wekinator data to Max8 (works as commands to trigger functions)
+
 3- Phone 2: Gravitational sensor directly to Max8 (works as regulator of the form)
 
 ![body machine](https://hackmd.io/_uploads/B1vTb7m8R.jpg)
