@@ -82,13 +82,16 @@ We had to conduct many trials with combinations of arm movements/arm positions a
 ![max8](https://hackmd.io/_uploads/SyA4W2ZIR.png)
 
 **Shape generation:**
+
 ![shape](https://hackmd.io/_uploads/r15NPmQLA.png)
 
 **Shape's attributes:**
+
 This section controls the shape's numeber of sides, noise quantity and color.
 ![shape's attributes](https://hackmd.io/_uploads/HJ8K_77IA.png)
 
-**Data receiver and conditional functions**
+**Data receiver and conditional functions:**
+
 This section recieves the data from wekinator (phone 1) and the phone 2. To be able to trigger the commands that control de shape's attributes, it was necessary to use conditionant functions that trigger them when the data is equal to certain value (1,2 or 3).
 
 ![receive and conditions](https://hackmd.io/_uploads/BynsdXX80.png)
